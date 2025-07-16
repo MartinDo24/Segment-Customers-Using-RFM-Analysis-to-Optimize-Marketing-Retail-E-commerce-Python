@@ -8,3 +8,6 @@ Mục tiêu là xác định nhóm khách hàng trung thành, khách có giá tr
 ## Công cụ sử dụng
 - Python, pandas, matplotlib, seaborn  
 - Tính toán điểm RFM và phân cụm khách hàng
+
+File dữ liệu Excel nằm trong thư mục `ecommerce retail.xlsx`.  
+Gồm các thông tin: mã khách hàng, ngày giao dịch, số tiền chi tiêu...
