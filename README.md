@@ -21,7 +21,7 @@ Tools Used: Python (google colab)
 
 ###Objective:
 
-###📖 What is this project about? What Business Question will it solve?
+###📖 What is this project about? 
 
 -Performs RFM (Recency, Frequency, Monetary) analysis on e-commerce retail data to segment customers
 
