@@ -1,4 +1,4 @@
-# RFM-customer-segmentation
+# E-commerce-RFM-customer-segmentation
 
 <img width="1000" height="597" alt="image" src="https://github.com/user-attachments/assets/9c0a1aeb-cd41-4491-ad98-1e3b9ce99f97" />
 
