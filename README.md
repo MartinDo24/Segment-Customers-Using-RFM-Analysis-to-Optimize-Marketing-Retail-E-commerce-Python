@@ -130,13 +130,9 @@ Operation:
 
 -This is the RFM analysis results table, used to make marketing and customer care decisions.
 
-<img width="761" height="459" alt="image" src="https://github.com/user-attachments/assets/c446f351-05c1-474e-9f08-546d9cc8016b" />
+<img width="574" height="647" alt="image" src="https://github.com/user-attachments/assets/edda34a1-5dc0-4d52-aedd-ca2f7b8d30be" />
 
-
-<img width="587" height="407" alt="image" src="https://github.com/user-attachments/assets/2a3b13d6-a75f-4334-99da-78310b481663" />
-
-
-<img width="637" height="353" alt="image" src="https://github.com/user-attachments/assets/b26dbcfd-d4d7-4842-b81b-6f30b46d4aac" />
+<img width="1292" height="501" alt="image" src="https://github.com/user-attachments/assets/d18a50c9-0019-489c-96d9-657bce43e285" />
 
 
 2️⃣ Exploratory Data Analysis (EDA)
