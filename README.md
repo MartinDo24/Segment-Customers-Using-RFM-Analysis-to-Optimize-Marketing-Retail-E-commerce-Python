@@ -88,16 +88,6 @@ Retail/online business has a large number of customers but does not know which g
 
 1️⃣ Data Cleaning & Preprocessing
 
--Only get products with unitprice and quality having positive integer values
-
--Remove duplicate and missing values
-
--Convert Stock Code back to correct format to return to correct StockCode format 5 integers
-
-<img width="245" height="29" alt="image" src="https://github.com/user-attachments/assets/4fccc3e3-45b1-44d2-8896-d54d92340208" />
-
-<img width="565" height="302" alt="image" src="https://github.com/user-attachments/assets/d82979e0-781e-42cf-9ffb-e6436b5d421b" />
-
 Technique:
 
 -Choose the reference 2011-12-31. Get the most recent purchase date of each customer (max())
