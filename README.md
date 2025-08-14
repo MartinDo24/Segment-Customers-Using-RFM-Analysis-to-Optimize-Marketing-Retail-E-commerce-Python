@@ -9,7 +9,7 @@ Date: 2025-04-25
 
 Tools Used: Python (google colab)
 
-##📑 Table of Contents:
+## 📑 Table of Contents:
 
 1.[📌Background & Overview](#-background--overview)
 
@@ -19,9 +19,9 @@ Tools Used: Python (google colab)
 
 ## 📌 Background & Overview
 
-###Objective:
+### Objective:
 
-###📖 What is this project about? 
+### 📖 What is this project about? 
 
 -Performs RFM (Recency, Frequency, Monetary) analysis on e-commerce retail data to segment customers
 
